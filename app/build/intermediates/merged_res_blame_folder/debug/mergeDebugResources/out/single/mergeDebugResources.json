@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\layout_activity_estadisticas.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\layout\\activity_estadisticas.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\layout_activity_registroreciclaje.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\layout\\activity_registroreciclaje.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\raw_beneficiosreciclaje_.mp3.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\raw\\beneficiosreciclaje_.mp3"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\raw_beneficiosreciclaje.mp4.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\raw\\beneficiosreciclaje.mp4"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\drawable_reciclaje.jpeg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\drawable\\reciclaje.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\drawable_lata.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\drawable\\lata.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\drawable_separarordenado.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\drawable\\separarordenado.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\layout_activity_contadorrecompensa.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\layout\\activity_contadorrecompensa.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\layout_activity_beneficios.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\layout\\activity_beneficios.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\drawable_ecorecicla.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\drawable\\ecorecicla.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\layout_activity_registro.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\layout\\activity_registro.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\drawable_consejosreciclar.jpeg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\drawable\\consejosreciclar.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\drawable_reutilizar.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\drawable\\reutilizar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\drawable_recicla.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\drawable\\recicla.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\layout_activity_registro_usuario.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\layout\\activity_registro_usuario.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\drawable_productosbiodegradables.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\drawable\\productosbiodegradables.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\drawable_fondopantalla.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\drawable\\fondopantalla.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\drawable_boton.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\drawable\\boton.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\drawable_pesos.jpeg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\drawable\\pesos.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\drawable_reciclajedepositos.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\drawable\\reciclajedepositos.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\layout_activity_menu_principal.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\layout\\activity_menu_principal.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\layout_activity_categorizacion.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\layout\\activity_categorizacion.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\drawable_vidrio.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\drawable\\vidrio.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\drawable_calendario.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\drawable\\calendario.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\drawable_peso.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\drawable\\peso.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\drawable_reutilizable.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\drawable\\reutilizable.png"
+    },
+    {
+        "merged": "com.example.reciclajeapp-debug-31:/layout_activity_beneficios.xml.flat",
+        "source": "com.example.reciclajeapp-main-33:/layout/activity_beneficios.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\drawable_caja.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\drawable\\caja.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\drawable_reciclar3.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\drawable\\reciclar3.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\drawable_residuos.jpeg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\drawable\\residuos.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\drawable_botella.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\drawable\\botella.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\drawable_colorreciclaje.jpeg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\drawable\\colorreciclaje.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\layout_activity_recuperarclave.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\layout\\activity_recuperarclave.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\drawable_consejosreciclaje1.jpeg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\drawable\\consejosreciclaje1.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\layout_activity_consejosreciclaje.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\layout\\activity_consejosreciclaje.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\drawable_reciclapapel.jpeg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\drawable\\reciclapapel.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\drawable_vidaresiduos.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\drawable\\vidaresiduos.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\drawable_categorias1.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\drawable\\categorias1.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-debug-31:\\drawable_beneficiosr.jpeg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.reciclajeapp-main-33:\\drawable\\beneficiosr.jpeg"
+    }
+]

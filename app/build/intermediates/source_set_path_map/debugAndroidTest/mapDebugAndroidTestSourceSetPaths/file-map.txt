@@ -1,0 +1,5 @@
+com.example.reciclajeapp.test.app-core-1.6.1-0 C:\Users\ASUS\.gradle\caches\transforms-4\bea6cdbf72f70e46ac7b61b56765de5e\transformed\core-1.6.1\res
+com.example.reciclajeapp.test.app-androidTest-1 C:\Users\ASUS\AndroidStudioProjects\ReciclajeApp\app\build\generated\res\resValues\androidTest\debug
+com.example.reciclajeapp.test.app-mergeDebugAndroidTestResources-2 C:\Users\ASUS\AndroidStudioProjects\ReciclajeApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.reciclajeapp.test.app-mergeDebugAndroidTestResources-3 C:\Users\ASUS\AndroidStudioProjects\ReciclajeApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.reciclajeapp.test.app-debugAndroidTest-4 C:\Users\ASUS\AndroidStudioProjects\ReciclajeApp\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

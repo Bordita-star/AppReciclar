@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="verde">#06635A</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">ReciclajeApp</string>
+    <style name="Base.Theme.ReciclajeApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.ReciclajeApp" parent="Base.Theme.ReciclajeApp"/>
+</resources>
